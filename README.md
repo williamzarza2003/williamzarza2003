@@ -1,6 +1,10 @@
 # William Zarza
 
-Desarrollador frontend en Ciudad del Este, Paraguay. Estudio Ingeniería en Informática en la Universidad Privada del Este y hago sitios y sistemas web con **React y TypeScript**, cuidando tanto el diseño como lo que pasa detrás.
+**Estudiante de Ingeniería en Informática y desarrollador frontend**
+
+> *Computer Engineering student and frontend developer from Ciudad del Este, Paraguay. I build web apps with React and TypeScript, from the interface to the database. Open to remote and freelance work.*
+
+Vivo en Ciudad del Este, Paraguay. Estudio Ingeniería en Informática en la Universidad Privada del Este y hago sitios y sistemas web con **React y TypeScript**, cuidando tanto el diseño como lo que pasa detrás.
 
 Abierto a trabajo remoto y proyectos freelance · [LinkedIn](https://www.linkedin.com/in/william-zarza-293792451/) · [email](mailto:williamzarza095@gmail.com)
 
@@ -14,7 +18,7 @@ Abierto a trabajo remoto y proyectos freelance · [LinkedIn](https://www.linkedi
 
 [![Pizarra de cotizaciones de Cambio CDE para la TV del local](https://raw.githubusercontent.com/williamzarza2003/cambio-cde/main/public/capturas/pantalla.webp)](https://cambio-cde-delta.vercel.app/acerca)
 
-Cotizaciones, compra y venta de divisas, caja con arqueo y una pizarra split-flap para la TV del local. La lógica de dinero vive en PostgreSQL, con triggers y Row Level Security.
+Cotizaciones, compra y venta de divisas, caja con arqueo y una pizarra split-flap para la TV del local que se actualiza al instante con Supabase Realtime. La lógica de dinero vive en PostgreSQL, con triggers y Row Level Security.
 
 React · TypeScript · Supabase · Vercel — [Demo](https://cambio-cde-delta.vercel.app/acerca) · [Pantalla TV](https://cambio-cde-delta.vercel.app/pantalla) · [Código](https://github.com/williamzarza2003/cambio-cde)
 
@@ -30,9 +34,9 @@ React · TypeScript · SVG · CSS — [Código](https://github.com/williamzarza2
 
 [![Portada de Nativa Café con el ñandutí sobre tierra colorada](https://raw.githubusercontent.com/williamzarza2003/nativa-cafe/main/docs/capturas/portada-escritorio.webp)](https://nativa-cafe.vercel.app)
 
-Landing de una cafetería ficticia de Ciudad del Este con identidad paraguaya: un ñandutí que se teje al cargar, carta tipo pizarra y reservas con turnos. Cada reserva entra a un flujo de n8n que la guarda y avisa por Telegram.
+Landing de una cafetería ficticia de Ciudad del Este con identidad paraguaya: un ñandutí que se teje al cargar, carta tipo pizarra y reservas con turnos. Cada reserva pasa por una función serverless que la valida y avisa por Telegram, y se reenvía a un flujo de n8n.
 
-React · TypeScript · n8n · Telegram — [Demo](https://nativa-cafe.vercel.app) · [Código del sitio](https://github.com/williamzarza2003/nativa-cafe) · [Flujo de n8n](https://github.com/williamzarza2003/reservas-n8n)
+React · TypeScript · Vercel Functions · Telegram · n8n — [Demo](https://nativa-cafe.vercel.app) · [Código del sitio](https://github.com/williamzarza2003/nativa-cafe) · [Flujo de n8n](https://github.com/williamzarza2003/reservas-n8n)
 
 ### DEVSPACE · dashboard de tecnologías
 
