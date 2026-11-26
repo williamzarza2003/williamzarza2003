@@ -1,40 +1,47 @@
-# Hola, soy William Zarza 👋
+# William Zarza
 
-Estudiante de **Ingeniería en Informática** en Paraguay, enfocado en **desarrollo frontend con React y TypeScript**. Me interesan el desarrollo web, la inteligencia artificial aplicada y el diseño digital.
+**Estudiante de Ingeniería en Informática y desarrollador frontend**
 
-- 🔭 Proyectos: [Cambio CDE](https://github.com/williamzarza2003/cambio-cde), sistema para casas de cambio ([demo](https://cambio-cde-delta.vercel.app)), y [DEVSPACE](https://github.com/williamzarza2003/devspace), dashboard para organizar tecnologías ([demo](https://devspace-mu.vercel.app))
-- 🌱 Aprendiendo: testing con Vitest, buenas prácticas de TypeScript e inglés
-- 💼 Abierto a trabajo remoto y proyectos freelance
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/william-zarza-293792451/) · [email](mailto:williamzarza095@gmail.com)
+> *Computer Engineering student and frontend developer from Ciudad del Este, Paraguay. I build web apps with React and TypeScript, from the interface to the database. Open to remote and freelance work.*
 
-## Tecnologías
+Vivo en Ciudad del Este, Paraguay. Estudio Ingeniería en Informática en la Universidad Privada del Este y hago sitios y sistemas web con **React y TypeScript**, cuidando tanto el diseño como lo que pasa detrás.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+Abierto a trabajo remoto y proyectos freelance · [LinkedIn](https://www.linkedin.com/in/william-zarza-293792451/) · [email](mailto:williamzarza095@gmail.com)
 
-## Proyectos destacados
+**Uso a diario:** React · TypeScript · Vite · CSS · Supabase (PostgreSQL, Auth, RLS) · n8n · Vitest · Git · Vercel
 
-### [Cambio CDE](https://github.com/williamzarza2003/cambio-cde)
+---
 
-Sistema web para casas de cambio de Ciudad del Este: cotizaciones del día, compra y venta de divisas, caja con apertura y cierre por arqueo, anulaciones con reversión automática y pantalla pública de cotizaciones para la TV del local. La lógica de dinero vive en PostgreSQL (triggers, funciones y Row Level Security).
+## Proyectos
 
-**Stack:** React 19 · TypeScript · Vite · Supabase (PostgreSQL, Auth, RLS) · Vercel
+### Cambio CDE · sistema para casas de cambio
 
-[Demo](https://cambio-cde-delta.vercel.app) · usuario `demo@cambiocde.com` / `demo1234` (rol cajero)
+[![Pizarra de cotizaciones de Cambio CDE para la TV del local](https://raw.githubusercontent.com/williamzarza2003/cambio-cde/main/public/capturas/pantalla.webp)](https://cambio-cde-delta.vercel.app/acerca)
 
-### [DEVSPACE](https://github.com/williamzarza2003/devspace)
+Cotizaciones, compra y venta de divisas, caja con arqueo y una pizarra split-flap para la TV del local que se actualiza al instante con Supabase Realtime. La lógica de dinero vive en PostgreSQL, con triggers y Row Level Security.
 
-Dashboard para registrar y organizar las tecnologías que uso y aprendo: búsqueda, filtros, ordenamiento, estadísticas, importación/exportación en JSON con validación y pruebas unitarias.
+React · TypeScript · Supabase · Vercel — [Demo](https://cambio-cde-delta.vercel.app/acerca) · [Pantalla TV](https://cambio-cde-delta.vercel.app/pantalla) · [Código](https://github.com/williamzarza2003/cambio-cde)
 
-**Stack:** React 19 · TypeScript · Vite · Vitest · Vercel
+### Kuarahy · landing publicitaria de producto
 
-[![DEVSPACE](https://raw.githubusercontent.com/williamzarza2003/devspace/main/docs/screenshots/dashboard.png)](https://devspace-mu.vercel.app)
+[![Portada de Kuarahy: el termo sobre un sol plano naranja](https://raw.githubusercontent.com/williamzarza2003/kuarahy/main/docs/capturas/portada.webp)](https://github.com/williamzarza2003/kuarahy)
+
+Un termo ficticio para tereré hecho en Paraguay, contado con una narrativa al hacer scroll: un día de enero en el que afuera hacen 41° y adentro del termo, 3°. Producto, guampa y bombilla dibujados en SVG.
+
+React · TypeScript · SVG · CSS — [Código](https://github.com/williamzarza2003/kuarahy)
+
+### Nativa Café + reservas con n8n
+
+[![Portada de Nativa Café con el ñandutí sobre tierra colorada](https://raw.githubusercontent.com/williamzarza2003/nativa-cafe/main/docs/capturas/portada-escritorio.webp)](https://nativa-cafe.vercel.app)
+
+Landing de una cafetería ficticia de Ciudad del Este con identidad paraguaya: un ñandutí que se teje al cargar, carta tipo pizarra y reservas con turnos. Cada reserva pasa por una función serverless que la valida y avisa por Telegram, y se reenvía a un flujo de n8n.
+
+React · TypeScript · Vercel Functions · Telegram · n8n — [Demo](https://nativa-cafe.vercel.app) · [Código del sitio](https://github.com/williamzarza2003/nativa-cafe) · [Flujo de n8n](https://github.com/williamzarza2003/reservas-n8n)
+
+### DEVSPACE · dashboard de tecnologías
+
+[![Dashboard de DEVSPACE con resumen y distribución por categorías](https://raw.githubusercontent.com/williamzarza2003/devspace/main/docs/screenshots/dashboard.png)](https://devspace-mu.vercel.app)
+
+Panel para registrar las tecnologías que uso y estudio, con búsqueda, filtros, estadísticas e importación y exportación en JSON validadas. Con pruebas unitarias.
+
+React · TypeScript · Vitest — [Demo](https://devspace-mu.vercel.app) · [Código](https://github.com/williamzarza2003/devspace)
