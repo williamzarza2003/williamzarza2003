@@ -30,13 +30,13 @@ Un termo ficticio para tereré hecho en Paraguay, contado con una narrativa al h
 
 React · TypeScript · SVG · CSS — [Código](https://github.com/williamzarza2003/kuarahy)
 
-### Nativa Café + reservas con n8n
+### Nativa Café + reservas por Telegram
 
 [![Portada de Nativa Café con el ñandutí sobre tierra colorada](https://raw.githubusercontent.com/williamzarza2003/nativa-cafe/main/docs/capturas/portada-escritorio.webp)](https://nativa-cafe.vercel.app)
 
-Landing de una cafetería ficticia de Ciudad del Este con identidad paraguaya: un ñandutí que se teje al cargar, carta tipo pizarra y reservas con turnos. Cada reserva pasa por una función serverless que la valida y avisa por Telegram, y se reenvía a un flujo de n8n.
+Landing de una cafetería ficticia de Ciudad del Este con identidad paraguaya: un ñandutí que se teje al cargar, carta tipo pizarra y reservas con turnos. Cada reserva pasa por una función serverless que la valida y avisa por Telegram al instante; si está prendido, también la reenvía a un flujo de n8n.
 
-React · TypeScript · Vercel Functions · Telegram · n8n — [Demo](https://nativa-cafe.vercel.app) · [Código del sitio](https://github.com/williamzarza2003/nativa-cafe) · [Flujo de n8n](https://github.com/williamzarza2003/reservas-n8n)
+React · TypeScript · Vercel Functions · Telegram · n8n (opcional) — [Demo](https://nativa-cafe.vercel.app) · [Código del sitio](https://github.com/williamzarza2003/nativa-cafe) · [Flujo de n8n](https://github.com/williamzarza2003/reservas-n8n)
 
 ### DEVSPACE · dashboard de tecnologías
 
